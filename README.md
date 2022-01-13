@@ -37,6 +37,9 @@ Github link:
 https://github.com/PierreTsr/Jarvis/
 
 
+Youtube link:
+https://youtu.be/LcYrV36Wi2s
+
 ## Info for project iteration1
 
 Jarvis is a recommendation web-tool for people who are moving from different cities. 
